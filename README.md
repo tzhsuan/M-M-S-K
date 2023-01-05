@@ -1,4 +1,7 @@
 # M-M-S-K
-
-## preview
-![image](MMSK.pdf)
+![image](MMSK.png)
+![image](MMSK-1.png)
+![image](MMSK-2.png)
+![image](MMSK-3.png)
+![image](MMSK-4.png)
+![image](MMSK-5.png)
